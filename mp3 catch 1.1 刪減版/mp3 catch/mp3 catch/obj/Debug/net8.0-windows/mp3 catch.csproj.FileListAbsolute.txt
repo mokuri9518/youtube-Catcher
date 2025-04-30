@@ -1,0 +1,55 @@
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.exe
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.deps.json
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.runtimeconfig.json
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.pdb
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\libvideo.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\YoutubeExplode.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3_catch.MainForm.resources
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.GenerateResource.cache
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.AssemblyInfo.cs
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.Up2Date
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\refint\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.pdb
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.genruntimeconfig.cache
+C:\Users\User\Downloads\mp3 catch 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\ref\mp3 catch.dll
+D:\C#\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.dll
+D:\C#\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\refint\mp3 catch.dll
+D:\C#\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.pdb
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.exe
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.deps.json
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.runtimeconfig.json
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\mp3 catch.pdb
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\libvideo.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\YoutubeExplode.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3_catch.MainForm.resources
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.GenerateResource.cache
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.AssemblyInfo.cs
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.csproj.Up2Date
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\refint\mp3 catch.dll
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.pdb
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\mp3 catch.genruntimeconfig.cache
+C:\Users\User\Downloads\mp3 catch 1.1 刪減版\mp3 catch\mp3 catch\obj\Debug\net8.0-windows\ref\mp3 catch.dll
