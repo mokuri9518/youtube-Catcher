@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>mp3_catch</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>bin\Debug\net8.0-windows\AppData\catch pixel.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0-windows\AppData\catch pixel.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="VideoLibrary" Version="3.2.8" />
+    <PackageReference Include="YoutubeExplode" Version="6.5.3" />
+  </ItemGroup>
+
+</Project>
