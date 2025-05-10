@@ -23,6 +23,5 @@
 
 ![image](https://github.com/user-attachments/assets/12e15b26-4f48-4514-b3a3-67b139c04d86)
 
-
 附註:自動排版可以自動將輸入的網址換行
 無須手動換行
